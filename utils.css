@@ -1,0 +1,41 @@
+.d-flex{
+    display: flex;
+}
+
+.flex-row{
+    flex-direction: row;
+}
+
+.flex-column{
+    flex-direction: column;
+}
+
+.justify-content-center{
+    justify-content: center;
+}
+
+.align-items-center{
+    align-items: center;
+}
+
+.justify-content-space-between{
+    justify-content: space-between;
+}
+
+.justify-content-space-around{
+    justify-content: space-around;
+}
+
+.flex-direction-column{
+    flex-direction: column;
+}
+
+.flex-wrap{
+    flex-wrap: wrap;
+}
+
+.padding-20px{
+    padding: 20px;
+}
+
+
